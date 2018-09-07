@@ -1,0 +1,21 @@
+Message: In Main 
+
+Message: Reading Input 
+
+Message: Determing type of the class method
+
+Message: Selected a Database 
+
+Message: Determing type of the database class method
+
+Message: Determining Fare
+
+Message: In Air Saving 
+
+
+essage: Writing to file 
+
+Catch Block 
+
+Message: Exiting Catch Block
+
